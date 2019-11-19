@@ -6,18 +6,18 @@ const {
   blueBright
 } = require("colorette");
 
-const work = white(`Software Architect @ ${blueBright('Modus Create')}`)
-const gde = `${blueBright('  Google Developers Expert')} ${white('in Angular')}`
-const twitter = blueBright('https://twitter.com/ahsan_ayz')
-const linkedIn = blueBright('https://linkedin.com/in/ahsanayaz')
-const github = blueBright('https://github.com/ahsanayaz')
-const slides = blueBright('https://slides.com/ahsanayaz')
-const medium = blueBright('https://medium.com/@ahsan.ayaz')
-const npx = white('npx ahsanayaz')
+const work = white(`Software Engineer @ ${blueBright('Modus Create')}`)
+//const gde = `${blueBright('  Google Developers Expert')} ${white('in Angular')}`
+const twitter = blueBright('https://twitter.com/thenewadeel')
+const linkedIn = blueBright('https://linkedin.com/in/thenewadeel')
+const github = blueBright('https://github.com/thenewadeel')
+const slides = blueBright('https://slides.com/thenewadeel')
+const medium = blueBright('https://medium.com/@thenewadeel')
+const npx = white('npx thenewadeel')
 
 const newline = '\n'
-const heading = `${white('  Muhammad Ahsan Ayaz /')} ${blueBright('ahsanayaz')}`
-const working = `${white(bold('     Work:'))}  ${work}`
+const heading = `${white('  Muhammad Adeel Shahid /')} ${blueBright('ahsanayaz')}`
+//const working = `${white(bold('     Work:'))}  ${work}`
 const linkedining = `${white(bold('  LinkedIn:'))} ${linkedIn}`
 const twittering = `${white(bold('  Twitter:'))}  ${twitter}`
 const githubing = `${white(bold('   GitHub:'))}  ${github}`
