@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thenewadeel/npm-ahsanayaz.git"
+    "url": "git+https://github.com/thenewadeel/npm-thenewadeel.git"
   },
   "keywords": [
     "thenewadeel",
@@ -23,9 +23,9 @@
   "author": "M Adeel Shahid <thenewadeel@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thenewadeel/npm-ahsanayaz/issues"
+    "url": "https://github.com/thenewadeel/npm-thenewadeel/issues"
   },
-  "homepage": "https://github.com/thenewadeel/npm-ahsanayaz#readme",
+  "homepage": "https://github.com/thenewadeel/npm-thenewadeel#readme",
   "dependencies": {
     "colorette": "^1.0.7"
   }
